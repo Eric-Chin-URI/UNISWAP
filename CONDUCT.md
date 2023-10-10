@@ -1,18 +1,29 @@
-### Decisions 
-(How will they be made? Majority, consensus, other?)
-### Attendance 
-(What are your expectations for the frequency and type of attendance?; What are legitimate reasons for missing? What do missing members have to do to make up for missed meetings)
-### Assignments 
-(How will assignments be made? How will the group deal with members who do not complete (or poorly complete assignments?)
-### Participation 
-(How will you communicate and share information; How will you ensure full participation of everyone? How will you honor member strengths and interests)?
-### Meeting Times and Locations/Mediums 
-(How will you decide on locations and times that suit all members?)
-### Agenda and Minutes /Notes 
-(Who will take them and in what format will they be shared?)
-### Promptness
-(What do you expect and how will you handle lateness?)
-### Conversational Courtesies 
-(How will the team encourage and reinforce active listening, sharing of the airtime, tangents, respectful dialogue, etc)
-### Enforcement/ Feedback 
-(How will the team enforce its own rules? How do individuals prefer to give andreceive feedback?)
+## Decisions 
+
+  Anonymous votes will settle decisions regarding the project
+
+## Attendance 
+  Monday night discord meeting 7pm
+  - One day notice for class and virtual meetings.
+  - Absent members are required to a post work update no later than a day after meeting.
+
+## Assignments 
+  Assignments will be posted on github projects board.
+
+## Participation 
+  Participation will be be judged by work on assigned tasks as well as general engagmnent.
+
+## Meeting Times and Locations/Mediums 
+  Meetings during class and weekly virtual meet on mondays.
+
+## Agenda and Minutes /Notes 
+  Scrum Master will be taking notes during the meetings.
+
+## Promptness
+  Due dates are mondays before meeting, any extionsion must be addressed during meeting
+
+## Conversational Courtesies 
+  General participation, and adequate conduct are mandetory.
+
+## Enforcement/ Feedback
+  If a member raises an issue regarding another individual, it will be addressed during meetings and the other members will decide course of action.
