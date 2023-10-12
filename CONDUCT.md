@@ -25,21 +25,11 @@ A Scrum Master is responsible for maintaining sprint requirements, project story
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This Code of Conduct represents the manner in team integrity within our team. Based on the above guidelines and standards, we believe we will be effective in developing, facilitating, and providing a welcoming environment for our application.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+At any time a team member does not abide by our team standards, pledge, and responsibilities the Scrum Master reserves the right to handle any situation independently or contact our product owner (uricsc305@gmail.com).
 
 ## Enforcement Guidelines
 
@@ -49,11 +39,11 @@ the consequences for any action they deem in violation of this Code of Conduct:
 ### 1. Correction
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+unprofessional within our team.
 
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+behavior was inappropriate. A public apology may be requested and/or a response to the product owner. !!!!
 
 ### 2. Warning
 
