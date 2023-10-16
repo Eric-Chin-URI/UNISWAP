@@ -112,3 +112,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 ![Claudia Deverdits signature](/src/deverdits_signature.png)
 ![Sam Calise signature](/src/SamCalise_Signature.jpeg)
 ![Vanessa Melgar signature](/src/melgar_signature.png)
+![Eric Chin signature](/src/ericchin_signature.png)
