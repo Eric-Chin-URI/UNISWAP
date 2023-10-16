@@ -12,3 +12,9 @@ ACCEPTANCE CRITERIA: {bulleted list of:  [GIVEN { condition}] [WHEN {something h
 * {curly brackets describe what to write}
 
 -->
+
+## User Story 1:
+As a GENERAL USER, instead of throwing unwanted items out, I want to list an item that I no longer have a need for so that others can offer a trade for it.
+
+## Acceptance Criteria:
+Work in progress
