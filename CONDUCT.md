@@ -110,3 +110,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Signatures
 ![Claudia Deverdits signature](/src/deverdits_signature.png)
+![Sam Calise signature](/src/SamCalise_Signature.jpeg)
