@@ -19,6 +19,36 @@ Examples of unacceptable behavior include:
 * Uncooperative through sprint deadlines
 * Unresponsive to committed meeting times
 
+## Decisions 
+
+  Anonymous votes will settle decisions regarding the project
+
+## Attendance 
+  Monday night discord meeting 7pm
+  - One day notice for class and virtual meetings.
+  - Absent members are required to a post work update no later than a day after meeting.
+
+## Assignments 
+  Assignments will be posted on github projects board.
+
+## Participation 
+  Participation will be be judged by work on assigned tasks as well as general engagement.
+
+## Meeting Times and Locations/Mediums 
+  There will be meetings during class and weekly virtual meeting on Mondays.
+
+## Agenda and Minutes /Notes 
+  Scrum Master will be taking notes during the meetings and share them with the group through Discord.
+
+## Promptness
+  Due dates are Mondays before meeting, any extension must be addressed during meeting.
+
+## Conversational Courtesies 
+  General participation, and adequate conduct are mandatory.
+
+## Enforcement/ Feedback
+  If a member raises an issue regarding another individual, it will be addressed during meetings and the other members will decide course of action; CTO staff may be involved if needed.
+
 ## Enforcement Responsibilities
 
 A Scrum Master is responsible for maintaining sprint requirements, project story expectations, and team facilitating through weekly sprints. As a leader, the Scrum Master will enforce our team standards amongst all developers within these rights. If there is a given situation where a developer extends the standards in an uncooperative manner, the Scrum Master has the right to proceed appropriately.
@@ -78,33 +108,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-
-## Decisions 
-
-  Anonymous votes will settle decisions regarding the project
-
-## Attendance 
-  Monday night discord meeting 7pm
-  - One day notice for class and virtual meetings.
-  - Absent members are required to a post work update no later than a day after meeting.
-
-## Assignments 
-  Assignments will be posted on github projects board.
-
-## Participation 
-  Participation will be be judged by work on assigned tasks as well as general engagement.
-
-## Meeting Times and Locations/Mediums 
-  There will be meetings during class and weekly virtual meeting on Mondays.
-
-## Agenda and Minutes /Notes 
-  Scrum Master will be taking notes during the meetings and share them with the group through Discord.
-
-## Promptness
-  Due dates are Mondays before meeting, any extension must be addressed during meeting.
-
-## Conversational Courtesies 
-  General participation, and adequate conduct are mandatory.
-
-## Enforcement/ Feedback
-  If a member raises an issue regarding another individual, it will be addressed during meetings and the other members will decide course of action; CTO staff may be involved if needed.
+## Signatures
