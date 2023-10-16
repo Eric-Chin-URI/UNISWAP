@@ -109,4 +109,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 ## Signatures
-!(src/deverdits_signature.png)
+!(/src/deverdits_signature.png)
