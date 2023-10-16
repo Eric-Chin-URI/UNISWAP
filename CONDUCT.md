@@ -43,39 +43,21 @@ unprofessional within our team.
 
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested and/or a response to the product owner. !!!!
+behavior was inappropriate. A public apology may be requested and/or a response to the product owner.
 
 ### 2. Warning
 
 **Community Impact**: A violation through a single incident or series of
 actions.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+**Consequence**: A warning will be given including consequences for continued behavior. If there are further violations, they may be taken to a higher authority figure, the CTO staff.
 
-### 3. Temporary Ban
+### 3. Elevation of Situation to CTO Staff
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+**Consequence**: CTO staff will be made aware of the situation at hand and a consequence will be decided by them.
 
 ## Attribution
 
@@ -110,19 +92,19 @@ For answers to common questions about this code of conduct, see the FAQ at
   Assignments will be posted on github projects board.
 
 ## Participation 
-  Participation will be be judged by work on assigned tasks as well as general engagmnent.
+  Participation will be be judged by work on assigned tasks as well as general engagement.
 
 ## Meeting Times and Locations/Mediums 
-  Meetings during class and weekly virtual meet on mondays.
+  There will be meetings during class and weekly virtual meeting on Mondays.
 
 ## Agenda and Minutes /Notes 
-  Scrum Master will be taking notes during the meetings.
+  Scrum Master will be taking notes during the meetings and share them with the group through Discord.
 
 ## Promptness
-  Due dates are mondays before meeting, any extionsion must be addressed during meeting
+  Due dates are Mondays before meeting, any extension must be addressed during meeting.
 
 ## Conversational Courtesies 
-  General participation, and adequate conduct are mandetory.
+  General participation, and adequate conduct are mandatory.
 
 ## Enforcement/ Feedback
-  If a member raises an issue regarding another individual, it will be addressed during meetings and the other members will decide course of action.
+  If a member raises an issue regarding another individual, it will be addressed during meetings and the other members will decide course of action; CTO staff may be involved if needed.
