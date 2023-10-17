@@ -41,3 +41,13 @@ As a user, I want verified locations on campus to meet and a posted time to be t
 * A list of verified public locations around campus where people can meet after the deal has been agreed upon
 * Time selection during the day
 * "On my way" and "here" notifications upon meeting time
+
+## User Story 5:
+As a user, I want to be able to freely select whether my account is public, so that I have control over my privacy.
+
+## Acceptance Criteria:
+* Users can log into their account.
+* Users can access account settings.
+* Users can make their accounts public or private.
+
+
