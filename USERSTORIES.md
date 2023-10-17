@@ -22,7 +22,7 @@ Work in progress
 ## User Story 2:
 As a User, I want to be able to view all successful and unsuccessful trade records for a specific selected user
 
-##Acceptance Criteria:
+## Acceptance Criteria:
 * Be able to view selected user profile
 * See feedback amongst most up-to-date completed and uncompleted trades
 * See a percentage based statistic of completed and uncompleted trades amongst other users
