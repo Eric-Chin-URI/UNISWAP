@@ -26,3 +26,18 @@ As a User, I want to be able to view all successful and unsuccessful trade recor
 * Be able to view selected user profile
 * See feedback amongst most up-to-date completed and uncompleted trades
 * See a percentage based statistic of completed and uncompleted trades amongst other users
+
+## User Story 3:
+As a user, I want to be able to ask further questions about items I am considering putting offers for
+
+## Acceptance Criteria:
+* Direct messaging between users regarding individual items
+* Deal or no deal agreement
+
+## User Story 4:
+As a user, I want verified locations on campus to meet and a posted time to be there
+
+## Acceptance Criteria:
+* A list of verified public locations around campus where people can meet after the deal has been agreed upon
+* Time selection during the day
+* "On my way" and "here" notifications upon meeting time
