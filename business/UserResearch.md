@@ -17,4 +17,10 @@ The following observations are made based on feedback on [this survey](https://f
 * Only 62.5% of people have traded before.
 * To address people who are unfamiliar with trading we will implement step-by-step guidelines in addition to an easy-to-use platform.
 
+## Observation 4:
+* Approximately 87% of the responses were junior and senior students. This represents an older college user-base community that could be our potential targeted audience.
+* It appears that students have bartered with helps in different academic classes. May be useful to have the flexibility to trade educational support through our platform.
+* According to polling based on user's feedback on preferred communication types, majority of the responses from the google form prefer direct messaging to be the main form of contact amongst other users.
+* As a group, theses google form guidelines will help us create an expected basis of how our application will look and feel for our customers.
+
 
