@@ -17,7 +17,9 @@ ACCEPTANCE CRITERIA: {bulleted list of:  [GIVEN { condition}] [WHEN {something h
 As a GENERAL USER, instead of throwing unwanted items out, I want to list an item that I no longer have a need for so that others can offer a trade for it.
 
 ## Acceptance Criteria:
-Work in progress
+* Be able to create a listing
+* Ability to choose whether listing is public or private
+* See a list of all offers on listing
 
 ## User Story 2:
 As a User, I want to be able to view all successful and unsuccessful trade records for a specific selected user
