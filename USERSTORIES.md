@@ -51,3 +51,10 @@ As a user, I want to be able to freely select whether my account is public, so t
 * Users can make their accounts public or private.
 
 
+## User Story 6:
+As a user, I want to be able to search for other users, so that I can view their profile.
+
+## Acceptance Criteria:
+* Users can search for other users
+* Users can open another user's profile
+* Users can always view profile information if the profile is set to public.
