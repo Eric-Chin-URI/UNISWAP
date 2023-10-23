@@ -29,12 +29,13 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(255, 255, 255, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(74, 144, 226, 1)",
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
@@ -51,9 +52,64 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "BackgroundColor": "rgba(255, 255, 255, 1)"
     },
-    "children": [],
+    "children": [
+        {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "Button",
+                "TextColor": "#FFFFFF",
+                "FontSize": 16,
+                "CustomFont": "",
+                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "Height": 45,
+                "Width": 313,
+                "Visible": true,
+                "X": 31,
+                "Y": 347,
+                "RelativeX": 31,
+                "RelativeY": 347,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "38.8%",
+                    "top": "50.944525905992315%",
+                    "display": "flex"
+                },
+                "FontBold": false,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "b73020ef-0f9e-4865-b366-f9deabc609ce",
+                "position": "absolute",
+                "edgeOffsets": 347
+            },
+            "children": [],
+            "id": "e86717c9-8881-4eac-9361-1b3efcb04787",
+            "thunkableVersion": 425,
+            "name": "Button2"
+        }
+    ],
     "id": "b73020ef-0f9e-4865-b366-f9deabc609ce",
     "thunkableVersion": 424,
     "name": "Sign In"
