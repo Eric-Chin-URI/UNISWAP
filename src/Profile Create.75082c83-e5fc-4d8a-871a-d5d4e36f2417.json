@@ -1,4 +1,5 @@
 {
+    "id": "75082c83-e5fc-4d8a-871a-d5d4e36f2417",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1621,7 +1622,6 @@
             "name": "Create_Button"
         }
     ],
-    "id": "75082c83-e5fc-4d8a-871a-d5d4e36f2417",
     "thunkableVersion": 424,
     "name": "Profile Create"
 }

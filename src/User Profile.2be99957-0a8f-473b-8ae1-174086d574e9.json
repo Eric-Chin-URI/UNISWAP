@@ -1,4 +1,5 @@
 {
+    "id": "2be99957-0a8f-473b-8ae1-174086d574e9",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1738,7 +1739,6 @@
             "name": "Nav Bar"
         }
     ],
-    "id": "2be99957-0a8f-473b-8ae1-174086d574e9",
     "thunkableVersion": 425,
     "name": "User Profile"
 }
