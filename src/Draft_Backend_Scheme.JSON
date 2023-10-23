@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "^[a-zA-Z0-9]+$": {
+            "type": "object",
+            "properties": {
+                "email":{
+                    "type": "string"
+                },
+                "username": {
+                    "type": "string"
+                },
+                "user_posts": {
+                    "type": "object",
+                    "post": {
+                        "item_name": {
+                            "type": "string"
+                        },
+                        "item_image": {
+                            "type": "string",
+                            "format": "url"
+                        },
+                        "item_post_date": {
+                            "type": "string"
+                        },
+                        "item_offers": 0
+                    }
+                },
+                "user_settings":{
+                    "user_agreement": false,
+                    "location_verified": false,
+                    "dark_mode": false
+                }
+            },
+            "required": ["email", "username", "user_agreement", "location_verified"]
+        }
+    }
+}
