@@ -1,4 +1,5 @@
 {
+    "id": "2be99957-0a8f-473b-8ae1-174086d574e9",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1358,7 +1359,7 @@
                     "children": [],
                     "id": "1e767fe8-e49d-4fba-ab41-1fbb932f5a45",
                     "thunkableVersion": 425,
-                    "name": "Button3"
+                    "name": "Add_Post_Btn"
                 },
                 {
                     "type": "Button",
@@ -1369,13 +1370,13 @@
                         "FontSize": 16,
                         "CustomFont": "",
                         "BackgroundColor": "rgba(255, 255, 255, 1)",
-                        "Height": 25,
-                        "Width": 25,
+                        "Height": 27,
+                        "Width": 27,
                         "Visible": true,
-                        "X": 330,
-                        "Y": 44,
-                        "RelativeX": 330,
-                        "RelativeY": 14,
+                        "X": 331,
+                        "Y": 45,
+                        "RelativeX": 331,
+                        "RelativeY": 15,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -1408,12 +1409,12 @@
                         "Disabled": false,
                         "ParentId": "2be99957-0a8f-473b-8ae1-174086d574e9",
                         "position": "absolute",
-                        "edgeOffsets": 44
+                        "edgeOffsets": 45
                     },
                     "children": [],
                     "id": "08a16d7a-fbd9-4c94-9ce8-818430ce45ab",
                     "thunkableVersion": 425,
-                    "name": "Button1"
+                    "name": "Setting_Nav_UP"
                 },
                 {
                     "type": "Image",
@@ -1616,7 +1617,7 @@
                     "children": [],
                     "id": "df0944f6-15db-4f07-a52f-23645de5dda7",
                     "thunkableVersion": 425,
-                    "name": "Home"
+                    "name": "Home_Nav_UP"
                 },
                 {
                     "type": "Button",
@@ -1672,7 +1673,7 @@
                     "id": "799da091-aa2c-40fa-98ac-599babbeba07",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Search"
+                    "name": "Search_Nav_UP"
                 },
                 {
                     "type": "Button",
@@ -1728,7 +1729,7 @@
                     "id": "c0f8b917-0e3c-42d4-8ada-2e3cbeae1af7",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Trades"
+                    "name": "Trades_Nav_UP"
                 },
                 {
                     "type": "Button",
@@ -1784,7 +1785,7 @@
                     "id": "4239e5ea-f8b2-48e3-a60a-72d3f42a4f48",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Me"
+                    "name": "Me_Nav_UP"
                 }
             ],
             "id": "5e0d8dbd-0aa4-4a51-89eb-c576229c2f18",
@@ -1792,7 +1793,6 @@
             "name": "Nav Bar"
         }
     ],
-    "id": "2be99957-0a8f-473b-8ae1-174086d574e9",
     "thunkableVersion": 425,
     "name": "User Profile"
 }
