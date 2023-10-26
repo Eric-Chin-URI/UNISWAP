@@ -128,7 +128,7 @@
             "projectName": "UNISWAP",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "UNISWAP",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -137,8 +137,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyAKxWPDThOXJI8yRkXtrI4iK2G0WAFSi-0",
+                "firebaseDatabaseURL": "https://uniswap-a5be4-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -172,7 +172,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "UNISWAP",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -181,8 +181,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyAKxWPDThOXJI8yRkXtrI4iK2G0WAFSi-0",
+                "firebaseDatabaseURL": "https://uniswap-a5be4-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -223,10 +223,41 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "6",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "aa7855c1-94d5-464e-b944-cc4322255dad": {
+                    "scope": "APP",
+                    "name": "currentlySigningUp",
+                    "screenId": "b73020ef-0f9e-4865-b366-f9deabc609ce"
+                },
+                "78231360-bd6e-48db-b6e0-908382b6c46e": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "b73020ef-0f9e-4865-b366-f9deabc609ce"
+                },
+                "abe3d771-441d-41b5-85de-b9e3e4242ca7": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "b73020ef-0f9e-4865-b366-f9deabc609ce"
+                },
+                "bfdd0e03-25d5-4371-a315-850e3a8c28ee": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "b73020ef-0f9e-4865-b366-f9deabc609ce"
+                },
+                "9862d88d-91fc-4a28-a2f8-61b26b23b1a7": {
+                    "scope": "APP",
+                    "name": "userID",
+                    "screenId": "b73020ef-0f9e-4865-b366-f9deabc609ce"
+                },
+                "8463854a-b34d-4670-959b-0a4d46b9cf27": {
+                    "scope": "APP",
+                    "name": "profile_create_error",
+                    "screenId": "75082c83-e5fc-4d8a-871a-d5d4e36f2417"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
