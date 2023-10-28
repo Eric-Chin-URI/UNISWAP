@@ -1,5 +1,4 @@
 {
-    "id": "bd166485-0249-4844-b4db-748432673c4c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -52,11 +51,10 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {
-            "activeTabIcon": "search_icon.png"
-        }
+        "tabNavigationOptions": {}
     },
     "children": [],
+    "id": "28044085-da36-49eb-b2bb-facc7d893d40",
     "thunkableVersion": 425,
-    "name": "Search"
+    "name": "Create Post"
 }

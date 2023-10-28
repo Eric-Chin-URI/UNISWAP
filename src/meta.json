@@ -21,8 +21,8 @@
                     "createdAt": "2023-10-22T13:48:10.184Z",
                     "updatedAt": "2023-10-22T13:48:10.184Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/6535281ad0ee6a33adb00c96?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T182139Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2d66d309e544ed373cfdecd5aedaccfb3b9cb449c97f7e2c3114df23618d4c3965da55675a52bfba66b236a89efe1b06b6efb7962278e8c0eabf0ee7715741bcf80a221f0b8d3a992ecbd53fd679df80cc39ea0e9b56ceb38a880986f7751a43d6e1aed40a9ed486d999e12e52699ca4da2d2571007796a90fd9b31f7e77edc6c1e0142970cfaf74598cad8af15bb2ef6e3e0bf7083f618104bfab32339f3f2a81b40528fbf5a64e40a1a65d098a8b46305695e5cd37a35c20f30e37a4bd5b3f2cb0064a3644788b806b8299f452147f69337522b9aefee6b72ea03521e9179f07b12b18985c1f38b3ff7ef555fc7ea184ff59ee39d860980284297cc300cf93",
-                    "signedUrlExpirationTime": 1698258099943
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/6535281ad0ee6a33adb00c96?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231026T133753Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=292f0562998e0508a0a0e4f36f72c56f4d4a17bbc2d0570015872203e092fb9958a501d76df2d18ef281493dc7c289a3705ab017d315638ad1a664f0b953d0909bbab1a92e3f842acf0a5a32327f68f521132d001473abbebfd685271717ac9384b6497f417f04dbfad007ce3dcd9229840ec2cc718fc05ba8f26813e668fd10c35669abbbfd39f0f61d396ae3b9a9a6446633c63a1d9acce3ccc7bd003be810f71db5ade97ba488372eaf98014c3ad6aec731974eff7ec17f2fa4fde36c254095113f0363cba58ce0ef6aaedb73b27e55c10e7c1fdba8c073a4a6fd5090cee0fab81774f58e3e650c1a60edb8de79b7debaf33daf790624a48d66fb1b625873",
+                    "signedUrlExpirationTime": 1698500273218
                 },
                 "653529bed77c84a2883696e6": {
                     "externalStorageType": "GCS",
@@ -37,8 +37,40 @@
                     "createdAt": "2023-10-22T13:55:11.033Z",
                     "updatedAt": "2023-10-22T13:55:11.033Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/653529bed77c84a2883696e6?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T182139Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8bc1ba0a7c86ed282221589973b107ecbf183ea6b8de7b268509ddd0a26e3ac10aebfd1cc7af10e3d1f7b211d5a64c3bb838f85d7bb4632dcb5e09d1fb631d59bb6b3d16d1fc1971a63a1465ea02336ac30c37ad0d19c93b31a166b1b4a8266f2333fd05c03122ffab6603623c0aba43e4020d69d78445a78e4c443d63a586c1799af49ae9e55b121d80cbb0a681d7b7390690609b69ff6b5c66d2a2bc2cb58b6ab7a54b79548a1ad0a98e5d1ad4bb4c731b559cb0ce59a42340218c3338e08487aabf3d22fd15094bccd6c2962cc2f21640cfd3704cee2850cdec68339b3f18c395019aa656cf3d4030e93edc339b3a1a756f61ae0cc4950da188f22144e076",
-                    "signedUrlExpirationTime": 1698258099945
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/653529bed77c84a2883696e6?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231026T133753Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8a6527d3f4aedec738f884e997006d3abec9e3b108a0c44e58c01d1236939c3387ab513c3cb0d1b5a871109043b1a001784ffa9d0b491812a87f8c0b436e661cc07521fa3de38cde5f14754cf726aa2550a348a2085986278c3c38644cb4f7868c2879415851803e36bfb5a4248a18eaba1d892df538f645e26e8830001302bcc81f0319e0b1a5801b759627cd7dfbddb78a13ded02bed6c9956210072466f888cc4960b05cb8397bc2fb0d8458be1fdf8b91969697927e6419f8f361a53e7d9fc94e9c7c6a362b28340808e384759b208243a7752ff36712803b7e89db7dd12f2c5fa6a31dd693288db1101989c7e6b9dc3d519e73f811c02576f903444f46e",
+                    "signedUrlExpirationTime": 1698500273221
+                },
+                "65382bf83bcef74d16c7a687": {
+                    "externalStorageType": "GCS",
+                    "_id": "65382bf83bcef74d16c7a687",
+                    "size": "5847",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "swap_icon.png",
+                    "backendURI": "/project/652e95592b8fb629a9d199dd/getasset/65382bf83bcef74d16c7a687",
+                    "name": "swap_icon.png",
+                    "externalName": "users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/65382bf83bcef74d16c7a687",
+                    "createdAt": "2023-10-24T20:41:28.372Z",
+                    "updatedAt": "2023-10-24T20:41:28.372Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/65382bf83bcef74d16c7a687?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231026T133753Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9043f044583dc09d727e28d7e580b081c6a48044b7c73a743b85dcf1a53fafde1c794cd6884520a75f9cfd15ee8cf4d10d052c681747f4c6bb5ce461a4424c11de0ae63e430abf2376ac7c3af17da9e762fe77f44b1cf4986493bd2ea7bf99944e693dbc5654d14ecb8458f612b3cc6343dc6d14d5622664e61135a869f4715d67a882e2e37b555cb393bd9d19d4c530c3c5cc4523efe1a769660415e91892f6c77e853191f919fbd9ba778a94d06480ab099e2af74547c92a0d90c1d776fa480a11c33f0dbcbcba59c692672c1bbd4cdad54dc2becdb644211b0dea3534db076eaa7b297ac415d70d5bf817d0a092cd300f7ce4873c618249d57615dac06070",
+                    "signedUrlExpirationTime": 1698500273223
+                },
+                "65382c223bcef70527c7a69b": {
+                    "externalStorageType": "GCS",
+                    "_id": "65382c223bcef70527c7a69b",
+                    "size": "11521",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "search_icon.png",
+                    "backendURI": "/project/652e95592b8fb629a9d199dd/getasset/65382c223bcef70527c7a69b",
+                    "name": "search_icon.png",
+                    "externalName": "users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/65382c223bcef70527c7a69b",
+                    "createdAt": "2023-10-24T20:42:11.164Z",
+                    "updatedAt": "2023-10-24T20:42:11.164Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9d0499e1206a3d202d5c7/projects/652e95592b8fb629a9d199dd/assets/65382c223bcef70527c7a69b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231026T133753Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=693fcdba7a708771c1f39ee768e301e896bfecf064b8bf4bf606ec7df00351c62453edb3bcf8b763190284762c9a57d126584c9c7418ae39895f4ccfb65b2722838390c9a8eedb1c8c607b9287a72b930658318906d42210d348badb40768aa5a04754c166b7bb13ab85bb7d0a8985923c6e7825ac53f53480c856068c2224b2886fd14b568ffe74451741fb437275ad7bc155003bdfb234eddae269e44f3d510b59755ca858df33ec4d08b4e2b563a81afcc9e7375be3ee986b62758dd45c3999ab1f0f5ceb91366946c43ba32e6d00b3ef09b7b9d5cb6c0580ce3cb18c6a533b74e7fa6f1a9e1ff3fa69c574a1410e7bb29f2929b657787524421ec69d1fff",
+                    "signedUrlExpirationTime": 1698500273225
                 }
             },
             "backendUpgradeVersion": 22,
@@ -83,7 +115,78 @@
                         "iap": false
                     }
                 },
-                "6daa00d6-78e1-4771-84fc-29a6e37d5de0": {
+                "bd166485-0249-4844-b4db-748432673c4c": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "7bdf2ab2-1a39-41dd-8ff5-658aef6f6d39": {
+                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"/>",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "4658baca-3c7e-4297-8c6c-40c97e16dc41": {
+                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"/>",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "652e95592b8fb629a9d199dd": {},
+                "00e79141-6632-4702-9b9a-845098eee0f2": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "28044085-da36-49eb-b2bb-facc7d893d40": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "48631807-15bb-41b8-b6ce-d1b2eee3da7d": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "bd8e8d72-f28d-487e-9fba-3afd9e56526f": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "5da61acf-d0a1-4a57-a663-d2e5be4eacc5": {
                     "xml": "",
                     "permissions": {
                         "android": [],
@@ -100,25 +203,58 @@
             "components": {
                 "children": [
                     {
+                        "type": "Bottom Tab Navigator",
+                        "translatedName": "Bottom Tab Navigator",
+                        "reactType": "BottomTabNavigator",
+                        "properties": {
+                            "showLabelIcon": "showLabelAndIcon",
+                            "TabNavigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "TabNavigatorIcon": {},
+                            "navigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "tabNavigationOptions": {}
+                        },
+                        "children": [
+                            {
+                                "id": "00e79141-6632-4702-9b9a-845098eee0f2"
+                            },
+                            {
+                                "id": "bd166485-0249-4844-b4db-748432673c4c"
+                            },
+                            {
+                                "id": "5801ff8d-ecd8-4171-89c5-cab2c30727aa"
+                            },
+                            {
+                                "id": "bd8e8d72-f28d-487e-9fba-3afd9e56526f"
+                            },
+                            {
+                                "id": "2be99957-0a8f-473b-8ae1-174086d574e9"
+                            }
+                        ],
+                        "id": "9f45be13-7aef-4699-94fc-56b3c3e8d133",
+                        "thunkableVersion": 425,
+                        "name": "Bottom_Tab_Navigator"
+                    },
+                    {
                         "id": "b73020ef-0f9e-4865-b366-f9deabc609ce"
-                    },
-                    {
-                        "id": "75082c83-e5fc-4d8a-871a-d5d4e36f2417"
-                    },
-                    {
-                        "id": "2be99957-0a8f-473b-8ae1-174086d574e9"
                     },
                     {
                         "id": "19b7c77d-6477-47ff-b60b-8d8a77db93a4"
                     },
                     {
-                        "id": "6daa00d6-78e1-4771-84fc-29a6e37d5de0"
+                        "id": "75082c83-e5fc-4d8a-871a-d5d4e36f2417"
                     },
                     {
-                        "id": "bd166485-0249-4844-b4db-748432673c4c"
+                        "id": "28044085-da36-49eb-b2bb-facc7d893d40"
                     },
                     {
-                        "id": "2a1bac25-e660-42ef-a813-0ca445d6be73"
+                        "id": "48631807-15bb-41b8-b6ce-d1b2eee3da7d"
+                    },
+                    {
+                        "id": "5da61acf-d0a1-4a57-a663-d2e5be4eacc5"
                     }
                 ]
             },
@@ -128,7 +264,7 @@
             "projectName": "UNISWAP",
             "settings": {
                 "teamId": null,
-                "appName": "UNISWAP",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -137,8 +273,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "AIzaSyAKxWPDThOXJI8yRkXtrI4iK2G0WAFSi-0",
-                "firebaseDatabaseURL": "https://uniswap-a5be4-default-rtdb.firebaseio.com/",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -172,7 +308,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "UNISWAP",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -181,8 +317,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "AIzaSyAKxWPDThOXJI8yRkXtrI4iK2G0WAFSi-0",
-                "firebaseDatabaseURL": "https://uniswap-a5be4-default-rtdb.firebaseio.com/",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -223,7 +359,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "13",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -251,11 +387,6 @@
                     "scope": "APP",
                     "name": "userID",
                     "screenId": "b73020ef-0f9e-4865-b366-f9deabc609ce"
-                },
-                "8463854a-b34d-4670-959b-0a4d46b9cf27": {
-                    "scope": "APP",
-                    "name": "profile_create_error",
-                    "screenId": "75082c83-e5fc-4d8a-871a-d5d4e36f2417"
                 }
             },
             "defaultDesignerDevice": "PHONE",

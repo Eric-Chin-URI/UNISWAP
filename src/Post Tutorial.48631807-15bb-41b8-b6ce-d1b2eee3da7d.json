@@ -1,5 +1,4 @@
 {
-    "id": "bd166485-0249-4844-b4db-748432673c4c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -52,11 +51,10 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {
-            "activeTabIcon": "search_icon.png"
-        }
+        "tabNavigationOptions": {}
     },
     "children": [],
+    "id": "48631807-15bb-41b8-b6ce-d1b2eee3da7d",
     "thunkableVersion": 425,
-    "name": "Search"
+    "name": "Post Tutorial"
 }

@@ -1,5 +1,4 @@
 {
-    "id": "bd166485-0249-4844-b4db-748432673c4c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -53,10 +52,11 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {
-            "activeTabIcon": "search_icon.png"
+            "activeTabIcon": "swap_icon.png"
         }
     },
     "children": [],
+    "id": "5801ff8d-ecd8-4171-89c5-cab2c30727aa",
     "thunkableVersion": 425,
-    "name": "Search"
+    "name": "Trade"
 }

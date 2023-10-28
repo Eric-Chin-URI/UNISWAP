@@ -1,5 +1,4 @@
 {
-    "id": "bd166485-0249-4844-b4db-748432673c4c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -27,10 +26,12 @@
                 "width": 0,
                 "height": 0
             },
+            "flex": 1,
+            "alignSelf": "stretch",
+            "display": "flex",
             "flexDirection": "column",
             "justifyContent": "center",
-            "alignItems": "center",
-            "display": "flex"
+            "alignItems": "center"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -39,7 +40,9 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
+        "TabNavigatorIcon": {
+            "activeTabIcon": "https://img.icons8.com/material/28/000000/home--v5.png"
+        },
         "DrawerNavigationOptions": {},
         "StackNavigationOptions": {
             "headerStyle": {}
@@ -48,15 +51,16 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
         "navigationOptions": {
-            "headerStyle": {}
+            "tabBarVisible": true
         },
         "tabNavigationOptions": {
-            "activeTabIcon": "search_icon.png"
-        }
+            "activeTabIcon": "https://img.icons8.com/material/48/000000/home--v5.png"
+        },
+        "isSimple": true
     },
     "children": [],
+    "id": "00e79141-6632-4702-9b9a-845098eee0f2",
     "thunkableVersion": 425,
-    "name": "Search"
+    "name": "Home"
 }

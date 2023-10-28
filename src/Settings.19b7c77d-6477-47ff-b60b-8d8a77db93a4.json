@@ -52,7 +52,9 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {
+            "activeTabIcon": "https://img.icons8.com/material-sharp/48/000000/settings.png"
+        }
     },
     "children": [
         {
@@ -637,13 +639,13 @@
                         "CustomFont": "",
                         "LineHeight": 1,
                         "Color": "rgba(0, 0, 0, 1)",
-                        "Height": 34,
-                        "Width": 144,
+                        "Height": 29,
+                        "Width": 111,
                         "Visible": true,
-                        "X": 1,
-                        "Y": 36,
-                        "RelativeX": 0,
-                        "RelativeY": 0,
+                        "X": 17,
+                        "Y": 47,
+                        "RelativeX": 16,
+                        "RelativeY": 11,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -684,7 +686,7 @@
                         },
                         "ParentId": "19b7c77d-6477-47ff-b60b-8d8a77db93a4",
                         "position": "absolute",
-                        "edgeOffsets": 36,
+                        "edgeOffsets": 47.55000305175781,
                         "children": "Settings"
                     },
                     "children": [],
