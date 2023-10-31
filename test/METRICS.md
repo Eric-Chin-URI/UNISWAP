@@ -25,28 +25,36 @@ At time of sign up, users will be asked whether they were referred to the app. E
 
 ## Engagement
 
-#### Trades per x period of time
+### Trades per x period of time
 
 The number of trades a user makes will be stored in the **Firebase** backend.
 
 
-#### Wishlisted items per x period of time
+### Wishlisted items per x period of time
 
 The number of wishlisted items will be stored in the **Firebase** RTDB.
 
 
-#### Number of active, unique users
+### Number of active, unique users
 
 **Google Analytics** will track the number of unique users accessing the app at a time.
 
 
-#### Amount of time user spends browsing offers
+### Amount of time user spends browsing offers
 
 **Google Analytics'** Time on Page metric will track how long users scroll down the Home screen.
 
+## Adoption
 
-- Metric 1: Collect Data Regarding User-to-User Messaging
+### Number of Downloads / Sign Ups
+<p>A metric that will help us gauge adoption of our application is the number of downloads and sign-ups we have. In order to track this, we can use Google Analytics to measure how many users we have and analyze the trends over time. Using this data, we'll be able to track the success of our app and make appropriate changes.</p>
+
+### Number of interested items
+
+Wishlisted items will be stored in the **Firebase** RTDB.
+
+
+### Collect Data Regarding User-to-User Messaging
 <p> The main focus of our application is to ensure that users can communicate with each other when trading items. By tracking the number of times a user messages another user to initiate a trade, it is important to track the number of ongoing messages within a given timeframe. This can help our team understand any possible barriers or redesign the way users can communicate through our platform. In response, this could benefit our application's traffic in the future based on this crucial statistic.</p>
 
-- Metric 2: Number of Downloads / Sign Ups
-<p>A metric that will help us gauge adoption of our application is the number of downloads and sign-ups we have. In order to track this, we can use Google Analytics to measure how many users we have and analyze the trends over time. Using this data, we'll be able to track the success of our app and make appropriate changes.</p>
+
