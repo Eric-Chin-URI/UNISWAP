@@ -1,3 +1,33 @@
+# A/B Test Name 1: View A Selected User's Successful And Unsuccessful Trades
+
+## User Story Number: 
+
+US3, Project Item #7
+
+## Metric: 
+
+(Engagement, Signals)
+
+## Hypothesis:
+
+The problem we are trying to solve is the potential worry of a user not trusting trading process with another user and fears of an unsuccessful trade. Can a public visible successful and unsuccessful 
+
+## Experiment:
+
+The impact of this would outcome to a potential lose of a current user not return back to our site. The given scenario affects the incoming and referring traffic of our application. We believe that the key information to gather from this hypothesized scenario is to maintain a statistic of the number of completed and incompleted trades of all users. The intent of this statistic is all users would agree to this information gathering, which would be supportive for future user communications through our application's messaging platform. Our experiment will be implemented by maintaining a record according to user feedback whether a trade was successful or not and a comment. This will provide full transparency on a user's trades percentage to prevent the 
+
+
+
+
+
+
+
+
+#
+---Below is a template for A/B Testing---
+#
+
+
 # A/B Test Name
 
 User Story Number:
