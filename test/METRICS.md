@@ -23,6 +23,27 @@ Users will be encouraged to rate the app in the **App Store**.
 
 At time of sign up, users will be asked whether they were referred to the app. Each time a user is referenced as a referral, this will be noted in the **Firebase RTDB**.
 
+## Engagement
+
+#### Trades per x period of time
+
+The number of trades a user makes will be stored in the **Firebase** backend.
+
+
+#### Wishlisted items per x period of time
+
+The number of wishlisted items will be stored in the **Firebase** RTDB.
+
+
+#### Number of active, unique users
+
+**Google Analytics** will track the number of unique users accessing the app at a time.
+
+
+#### Amount of time user spends browsing offers
+
+**Google Analytics'** Time on Page metric will track how long users scroll down the Home screen.
+
 
 - Metric 1: Collect Data Regarding User-to-User Messaging
 <p> The main focus of our application is to ensure that users can communicate with each other when trading items. By tracking the number of times a user messages another user to initiate a trade, it is important to track the number of ongoing messages within a given timeframe. This can help our team understand any possible barriers or redesign the way users can communicate through our platform. In response, this could benefit our application's traffic in the future based on this crucial statistic.</p>
