@@ -1,3 +1,7 @@
+![HEART Framework](https://drive.google.com/uc?export=view&id=165xGgDxRwXJkcuf7V-65SZpysTI2FaaW)
+
+
+
 - Metric 1: Collect Data Regarding User-to-User Messaging
 <p> The main focus of our application is to ensure that users can communicate with each other when trading items. By tracking the number of times a user messages another user to initiate a trade, it is important to track the number of ongoing messages within a given timeframe. This can help our team understand any possible barriers or redesign the way users can communicate through our platform. In response, this could benefit our application's traffic in the future based on this crucial statistic.</p>
 
