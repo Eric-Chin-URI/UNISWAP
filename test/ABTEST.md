@@ -10,13 +10,15 @@ US3, Project Item #7
 
 ## Hypothesis:
 
-The problem we are trying to solve is the potential worry of a user not trusting trading process with another user and fears of an unsuccessful trade. Can a public visible successful and unsuccessful 
+The problem we are trying to solve is the potential worry of a user not trusting trading process with another user and fears of an unsuccessful trade. Can a visible successful and unsuccessful trade rating result in a higher success trade percentage amongst all users?
 
 ## Experiment:
 
-The impact of this would outcome to a potential lose of a current user not return back to our site. The given scenario affects the incoming and referring traffic of our application. We believe that the key information to gather from this hypothesized scenario is to maintain a statistic of the number of completed and incompleted trades of all users. The intent of this statistic is all users would agree to this information gathering, which would be supportive for future user communications through our application's messaging platform. Our experiment will be implemented by maintaining a record according to user feedback whether a trade was successful or not and a comment. This will provide full transparency on a user's trades percentage to prevent the 
+The impact of this would outcome to a potential lose of a current user not return back to our site. The given scenario affects the incoming and referring traffic of our application. We believe that the key information to gather from this hypothesized scenario is to maintain a statistic of the number of completed and incompleted trades of all users. The intent of this statistic is all users would agree to this information gathering, which would be supportive for future user communications through our application's messaging platform. Our experiment will be implemented by maintaining a record according to user feedback whether a trade was successful or not and a comment. This will provide full transparency on a user's trades percentage could prevent negative trades hurting our platform's traffic and encourage completed user-to-user trading.
 
+## Variations:
 
+We will be testing via our Thunkable display screens, where would be the best positions to display the public percentages of someone's successful and unsuccessful trades. This can be displayed either on the Profile Screen of a selected user or can be associated with their posting amongst other users through our application's trading feed.
 
 
 
