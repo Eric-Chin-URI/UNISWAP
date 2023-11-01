@@ -1,4 +1,5 @@
 {
+    "id": "00e79141-6632-4702-9b9a-845098eee0f2",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -60,7 +61,6 @@
         "isSimple": true
     },
     "children": [],
-    "id": "00e79141-6632-4702-9b9a-845098eee0f2",
     "thunkableVersion": 425,
     "name": "Home"
 }
