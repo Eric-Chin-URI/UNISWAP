@@ -44,10 +44,6 @@
         "TabNavigatorIcon": {
             "activeTabIcon": "https://img.icons8.com/material/28/000000/home--v5.png"
         },
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
