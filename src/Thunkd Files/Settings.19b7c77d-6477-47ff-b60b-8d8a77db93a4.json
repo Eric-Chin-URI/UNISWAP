@@ -39,20 +39,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -154,7 +145,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 16,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -219,7 +209,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 16,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -284,7 +273,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 16,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -353,7 +341,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -419,7 +406,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -485,7 +471,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -550,7 +535,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -649,7 +633,6 @@
                             "color": "rgba(0, 0, 0, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
-                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -985,7 +968,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
