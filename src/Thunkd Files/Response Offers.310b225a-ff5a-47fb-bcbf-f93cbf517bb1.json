@@ -39,20 +39,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -79,7 +70,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 24,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -384,7 +374,6 @@
                                                             "position": "relative",
                                                             "display": "flex"
                                                         },
-                                                        "capInsets": {},
                                                         "ParentId": "5da61acf-d0a1-4a57-a663-d2e5be4eacc5",
                                                         "position": "absolute",
                                                         "edgeOffsets": 556,
@@ -397,14 +386,12 @@
                                                     "id": "1f78958b-49d4-4ac6-ba4c-0c1b7ab82f4e",
                                                     "thunkableVersion": 428,
                                                     "name": "User_Img2",
-                                                    "bindingLabel": "User_Img2",
-                                                    "bindings": {}
+                                                    "bindingLabel": "User_Img2"
                                                 }
                                             ],
                                             "id": "a5ceca9a-6ade-4ef7-857d-08840c14c53e",
                                             "thunkableVersion": 428,
-                                            "name": "User Pfp2",
-                                            "bindings": {}
+                                            "name": "User Pfp2"
                                         },
                                         {
                                             "type": "ScrollView",
@@ -473,7 +460,6 @@
                                                             "color": "rgba(0, 0, 0, 1)",
                                                             "fontSize": 12,
                                                             "fontStyle": "normal",
-                                                            "textShadowOffset": {},
                                                             "letterSpacing": 0,
                                                             "textDecorationLine": "none",
                                                             "textDecorationStyle": "solid",
@@ -519,20 +505,17 @@
                                                     "id": "f47c4da1-1e5f-4cff-ad5f-86714e006aee",
                                                     "thunkableVersion": 428,
                                                     "name": "VP_Username_Label2",
-                                                    "bindingLabel": "VP_Username_Label2",
-                                                    "bindings": {}
+                                                    "bindingLabel": "VP_Username_Label2"
                                                 }
                                             ],
                                             "id": "99f7838c-85a0-4ab8-a60b-8594f2966e50",
                                             "thunkableVersion": 428,
-                                            "name": "Username Slot2",
-                                            "bindings": {}
+                                            "name": "Username Slot2"
                                         }
                                     ],
                                     "id": "60fc812f-887a-4d67-9ad8-5d6311333c04",
                                     "thunkableVersion": 428,
-                                    "name": "User2",
-                                    "bindings": {}
+                                    "name": "User2"
                                 },
                                 {
                                     "type": "ScrollView",
@@ -601,7 +584,6 @@
                                                     "color": "rgba(0, 0, 0, 1)",
                                                     "fontSize": 15,
                                                     "fontStyle": "normal",
-                                                    "textShadowOffset": {},
                                                     "letterSpacing": 0,
                                                     "textDecorationLine": "none",
                                                     "textDecorationStyle": "solid",
@@ -648,8 +630,7 @@
                                             "id": "73ed0cef-a834-4203-8bbc-3bafa183f658",
                                             "thunkableVersion": 428,
                                             "name": "Response_Label2",
-                                            "bindingLabel": "Response_Label2",
-                                            "bindings": {}
+                                            "bindingLabel": "Response_Label2"
                                         },
                                         {
                                             "type": "Button",
@@ -703,20 +684,17 @@
                                             "children": [],
                                             "id": "c147ae6a-4ffa-4c1d-b7cd-66d7d66be673",
                                             "thunkableVersion": 428,
-                                            "name": "Reply_Label2",
-                                            "bindings": {}
+                                            "name": "Reply_Label2"
                                         }
                                     ],
                                     "id": "a191af03-f8fd-4b84-baad-9bbe55d382b3",
                                     "thunkableVersion": 428,
-                                    "name": "Response2",
-                                    "bindings": {}
+                                    "name": "Response2"
                                 }
                             ],
                             "id": "106efcdc-6deb-4241-8dc4-ee630ebdb96a",
                             "thunkableVersion": 428,
-                            "name": "User Response2",
-                            "bindings": {}
+                            "name": "User Response2"
                         },
                         {
                             "type": "ScrollView",
@@ -813,8 +791,7 @@
                                     "children": [],
                                     "id": "dbb58652-0055-417d-8a27-263771e0d8ef",
                                     "thunkableVersion": 428,
-                                    "name": "Accept_Button2",
-                                    "bindings": {}
+                                    "name": "Accept_Button2"
                                 },
                                 {
                                     "type": "Button",
@@ -865,19 +842,16 @@
                                     "children": [],
                                     "id": "7abcfa4e-eaf5-4f29-8bfa-9bc7df3fff4b",
                                     "thunkableVersion": 428,
-                                    "name": "Reject Button2",
-                                    "bindings": {}
+                                    "name": "Reject Button2"
                                 }
                             ],
                             "id": "596d4bfb-d08e-41c8-897b-7cc5649259ad",
                             "thunkableVersion": 428,
-                            "name": "Answer Offer2",
-                            "bindings": {}
+                            "name": "Answer Offer2"
                         }
                     ],
                     "id": "aad2497a-08e4-418b-86b3-d061b33fe1b8",
                     "thunkableVersion": 428,
-                    "bindings": {},
                     "name": "Comment Template2"
                 }
             ],
