@@ -218,7 +218,7 @@
             ],
             "id": "f72c3679-214f-4701-9042-ec6492a584ec",
             "thunkableVersion": 428,
-            "name": "Layout1"
+            "name": "VP_Layout_Description"
         },
         {
             "type": "Image",
@@ -264,7 +264,7 @@
             "id": "a70c05a0-6414-48ef-bf82-c805a0224122",
             "thunkableVersion": 428,
             "bindings": null,
-            "name": "Image7"
+            "name": "VP_Img_RightArrow"
         },
         {
             "type": "Image",
@@ -309,7 +309,7 @@
             "children": [],
             "id": "482e7dd4-5450-4ca3-970c-48b9f47913e9",
             "thunkableVersion": 428,
-            "name": "Image6"
+            "name": "VP_Img_LeftArrow"
         },
         {
             "type": "Label",
@@ -378,7 +378,7 @@
             "id": "b8fe3232-8c8b-46d1-bb4a-363c3f29fe28",
             "thunkableVersion": 428,
             "bindings": null,
-            "name": "Label8"
+            "name": "VP_Label_Request-Tags"
         },
         {
             "type": "Label",
@@ -446,7 +446,7 @@
             "children": [],
             "id": "54f47f04-f16e-4c3b-8b1a-7b19a3e33f04",
             "thunkableVersion": 428,
-            "name": "Label6"
+            "name": "VP_Label_Tags"
         },
         {
             "type": "Image",
@@ -492,7 +492,7 @@
             "id": "600d418e-a337-4cb2-8d83-a7178b754611",
             "thunkableVersion": 428,
             "bindings": null,
-            "name": "Image5"
+            "name": "VP_Img_Not-Interested"
         },
         {
             "type": "Image",
@@ -538,7 +538,7 @@
             "id": "1c15e496-839a-44ef-8140-e4fd4156b08c",
             "thunkableVersion": 428,
             "bindings": null,
-            "name": "Image4"
+            "name": "VP_Img_Maybe"
         },
         {
             "type": "Image",
@@ -583,7 +583,7 @@
             "children": [],
             "id": "8515b425-8949-4445-98e5-e7c70e8f4823",
             "thunkableVersion": 428,
-            "name": "Image3"
+            "name": "VP_Img_Interested"
         },
         {
             "type": "Button",
@@ -636,7 +636,7 @@
             "children": [],
             "id": "e9a4a9f6-08e0-411e-b598-c416623f612c",
             "thunkableVersion": 428,
-            "name": "Button4"
+            "name": "VP_Btn_To-TO"
         },
         {
             "type": "Image",
@@ -681,7 +681,7 @@
             "children": [],
             "id": "02146a21-8c7e-43f2-9e53-6c9c29d29ac8",
             "thunkableVersion": 426,
-            "name": "Image2"
+            "name": "VP_Img_Item"
         },
         {
             "type": "Label",
@@ -749,7 +749,7 @@
             "children": [],
             "id": "a11d65d2-4984-4482-b8f2-a68a75fc24ef",
             "thunkableVersion": 426,
-            "name": "Label4"
+            "name": "VP_Label_Title"
         }
     ],
     "thunkableVersion": 425,

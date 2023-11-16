@@ -1,4 +1,5 @@
 {
+    "id": "5c0d8839-ebc9-4481-9f8c-a24f8db38fc4",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -722,7 +723,6 @@
             "name": "Label15"
         }
     ],
-    "id": "5c0d8839-ebc9-4481-9f8c-a24f8db38fc4",
     "thunkableVersion": 428,
     "name": "Send Finalization"
 }

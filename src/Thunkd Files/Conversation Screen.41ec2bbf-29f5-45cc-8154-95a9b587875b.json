@@ -1,4 +1,5 @@
 {
+    "id": "41ec2bbf-29f5-45cc-8154-95a9b587875b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -400,7 +401,6 @@
             "name": "Label14"
         }
     ],
-    "id": "41ec2bbf-29f5-45cc-8154-95a9b587875b",
     "thunkableVersion": 428,
     "name": "Conversation Screen"
 }
