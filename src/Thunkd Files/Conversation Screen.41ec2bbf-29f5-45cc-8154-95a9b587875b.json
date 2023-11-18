@@ -58,7 +58,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "User B profile",
+                "Text": "Eric's Profile",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
                 "CustomFont": "",
@@ -112,7 +112,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "User A Profile",
+                "Text": "Sam's Profile",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
                 "CustomFont": "",
