@@ -623,7 +623,7 @@
                         "Color": "rgba(0, 0, 0, 1)",
                         "Height": 34,
                         "Width": 144,
-                        "Visible": true,
+                        "Visible": false,
                         "X": 1,
                         "Y": 36,
                         "RelativeX": 0,
@@ -663,7 +663,7 @@
                             "left": "35.333333333333336%",
                             "top": "3.6274831334332833%",
                             "lineHeight": 1,
-                            "display": "flex"
+                            "display": "none"
                         },
                         "ParentId": "19b7c77d-6477-47ff-b60b-8d8a77db93a4",
                         "position": "absolute",

@@ -60,6 +60,54 @@
     },
     "children": [
         {
+            "type": "Loading Icon",
+            "translatedName": "Loading Icon",
+            "reactType": "ActivityIndicator",
+            "properties": {
+                "animating": true,
+                "color": "rgb(155,155,155)",
+                "size": 45,
+                "hidesWhenStopped": true,
+                "Height": 50,
+                "Width": 50,
+                "Visible": false,
+                "X": 162,
+                "Y": 356,
+                "RelativeX": 162,
+                "RelativeY": 356,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "0%",
+                    "top": "13.958017329226012%",
+                    "display": "none"
+                },
+                "ParentId": "2be99957-0a8f-473b-8ae1-174086d574e9",
+                "position": "absolute",
+                "edgeOffsets": 356
+            },
+            "children": [],
+            "id": "cb91c3ba-f18c-49b5-b1fd-b875d9bf88c0",
+            "thunkableVersion": 432,
+            "name": "UP_Loading"
+        },
+        {
             "type": "AdMobBanner",
             "label": "AdMob Banner",
             "translatedName": "AdMob Banner",
@@ -279,7 +327,7 @@
                     "translatedName": "Label",
                     "reactType": "Text",
                     "properties": {
-                        "Text": "username",
+                        "Text": "",
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
@@ -334,7 +382,7 @@
                         "ParentId": "2be99957-0a8f-473b-8ae1-174086d574e9",
                         "position": "absolute",
                         "edgeOffsets": 132.99999999999997,
-                        "children": "username"
+                        "children": ""
                     },
                     "children": [],
                     "id": "b9ca2c74-4850-4aae-bbcc-6ffbaa2f19bc",
@@ -351,7 +399,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Wow, such empty",
+                "Text": "No posts yet!",
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -406,7 +454,7 @@
                 "ParentId": "2be99957-0a8f-473b-8ae1-174086d574e9",
                 "position": "absolute",
                 "edgeOffsets": 197,
-                "children": "Wow, such empty"
+                "children": "No posts yet!"
             },
             "children": [],
             "id": "ef59b8aa-8cae-4a23-982e-a8000edda8fd",
