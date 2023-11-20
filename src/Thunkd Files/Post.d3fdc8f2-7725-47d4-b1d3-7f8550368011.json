@@ -666,13 +666,13 @@
                     "translatedName": "Image",
                     "properties": {
                         "resizeMode": "stretch",
-                        "Height": 300,
-                        "Width": 305,
+                        "Height": 269,
+                        "Width": 304,
                         "Visible": true,
-                        "X": 35,
-                        "Y": 90,
-                        "RelativeX": 35,
-                        "RelativeY": 90,
+                        "X": 36,
+                        "Y": 94,
+                        "RelativeX": 36,
+                        "RelativeY": 94,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -698,7 +698,7 @@
                         },
                         "ParentId": "5da61acf-d0a1-4a57-a663-d2e5be4eacc5",
                         "position": "absolute",
-                        "edgeOffsets": 62,
+                        "edgeOffsets": 94,
                         "Picture": "Item Image Placeholder.png"
                     },
                     "children": [],

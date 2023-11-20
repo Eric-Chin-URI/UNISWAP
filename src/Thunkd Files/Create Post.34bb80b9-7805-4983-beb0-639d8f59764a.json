@@ -706,9 +706,9 @@
                         "Width": 300,
                         "Visible": true,
                         "X": 37,
-                        "Y": 55,
+                        "Y": 30,
                         "RelativeX": 37,
-                        "RelativeY": 55,
+                        "RelativeY": 30,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -735,7 +735,7 @@
                         "capInsets": {},
                         "ParentId": "f3b36c37-2c57-489c-9d55-f7d9a5e0abcf",
                         "position": "absolute",
-                        "edgeOffsets": 55,
+                        "edgeOffsets": 30,
                         "Picture": "Item Image Placeholder.png"
                     },
                     "children": [],
