@@ -142,7 +142,6 @@
                             "top": "46.05626874062968%",
                             "display": "flex"
                         },
-                        "capInsets": {},
                         "ParentId": "bd8e8d72-f28d-487e-9fba-3afd9e56526f",
                         "position": "absolute",
                         "edgeOffsets": 240.00000000000003
@@ -222,7 +221,6 @@
                                     "color": "rgba(0, 0, 0, 1)",
                                     "fontSize": 18,
                                     "fontStyle": "normal",
-                                    "textShadowOffset": {},
                                     "letterSpacing": 0,
                                     "textDecorationLine": "none",
                                     "textDecorationStyle": "solid",
@@ -467,7 +465,6 @@
                             "top": "46.05626874062968%",
                             "display": "flex"
                         },
-                        "capInsets": {},
                         "ParentId": "bd8e8d72-f28d-487e-9fba-3afd9e56526f",
                         "position": "absolute",
                         "edgeOffsets": 240.00000000000003
@@ -547,7 +544,6 @@
                                     "color": "rgba(0, 0, 0, 1)",
                                     "fontSize": 18,
                                     "fontStyle": "normal",
-                                    "textShadowOffset": {},
                                     "letterSpacing": 0,
                                     "textDecorationLine": "none",
                                     "textDecorationStyle": "solid",
@@ -792,7 +788,6 @@
                             "top": "46.05626874062968%",
                             "display": "flex"
                         },
-                        "capInsets": {},
                         "ParentId": "bd8e8d72-f28d-487e-9fba-3afd9e56526f",
                         "position": "absolute",
                         "edgeOffsets": 240.00000000000003
@@ -872,7 +867,6 @@
                                     "color": "rgba(0, 0, 0, 1)",
                                     "fontSize": 18,
                                     "fontStyle": "normal",
-                                    "textShadowOffset": {},
                                     "letterSpacing": 0,
                                     "textDecorationLine": "none",
                                     "textDecorationStyle": "solid",
@@ -1053,7 +1047,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",

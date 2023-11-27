@@ -1,4 +1,5 @@
 {
+    "id": "5c0d8839-ebc9-4481-9f8c-a24f8db38fc4",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -39,20 +40,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -125,7 +117,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -292,7 +283,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -358,7 +348,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -424,7 +413,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -531,7 +519,6 @@
                             "top": "49.77511244377811%",
                             "display": "flex"
                         },
-                        "capInsets": {},
                         "ParentId": "5c0d8839-ebc9-4481-9f8c-a24f8db38fc4",
                         "position": "absolute",
                         "edgeOffsets": 302
@@ -568,7 +555,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -646,7 +632,6 @@
                     "top": "25.63718140929535%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "5c0d8839-ebc9-4481-9f8c-a24f8db38fc4",
                 "position": "absolute",
                 "edgeOffsets": 85
@@ -678,7 +663,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -722,7 +706,6 @@
             "name": "Label15"
         }
     ],
-    "id": "5c0d8839-ebc9-4481-9f8c-a24f8db38fc4",
     "thunkableVersion": 428,
     "name": "Send Finalization"
 }
