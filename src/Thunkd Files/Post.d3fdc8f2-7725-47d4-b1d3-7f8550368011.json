@@ -1,4 +1,5 @@
 {
+    "id": "d3fdc8f2-7725-47d4-b1d3-7f8550368011",
     "type": "Stack Navigator",
     "translatedName": "Stack Navigator",
     "reactType": "StackNavigator",
@@ -665,7 +666,7 @@
                     "type": "Image",
                     "translatedName": "Image",
                     "properties": {
-                        "resizeMode": "stretch",
+                        "resizeMode": "contain",
                         "Height": 269,
                         "Width": 304,
                         "Visible": true,
@@ -827,34 +828,23 @@
             },
             "children": [
                 {
-                    "type": "Label",
-                    "translatedName": "Label",
-                    "reactType": "Text",
+                    "type": "Button",
+                    "translatedName": "Button",
                     "properties": {
-                        "Text": "Current Trade Offers",
-                        "FontSize": 24,
+                        "Text": "Make Offer",
+                        "TextColor": "#FFFFFF",
+                        "FontSize": 16,
                         "CustomFont": "",
-                        "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
-                        "FontWeight": "bold",
-                        "TextAlign": "center",
-                        "Height": 45,
-                        "Width": 311,
+                        "BackgroundColor": "rgba(0, 0, 0, 1)",
+                        "Height": 42,
+                        "Width": 236,
                         "Visible": true,
-                        "X": 33,
-                        "Y": 14,
-                        "RelativeX": 33,
-                        "RelativeY": 14,
+                        "X": 69,
+                        "Y": 526,
+                        "RelativeX": 69,
+                        "RelativeY": 526,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
-                            "fontSize": 24,
-                            "fontStyle": "normal",
-                            "letterSpacing": 0,
-                            "textDecorationLine": "none",
-                            "textDecorationStyle": "solid",
-                            "textDecorationColor": "rgba(0, 0, 0, 1)",
-                            "writingDirection": "auto",
                             "marginTop": 0,
                             "marginBottom": 0,
                             "marginLeft": 0,
@@ -863,11 +853,7 @@
                             "paddingBottom": 0,
                             "paddingLeft": 0,
                             "paddingRight": 0,
-                            "flexWrap": "wrap",
-                            "borderWidth": 0,
-                            "borderRadius": 0,
-                            "borderColor": "rgba(236, 237, 237, 1)",
-                            "borderStyle": "solid",
+                            "borderRadius": 15,
                             "shadowColor": "rgba(0, 0, 0, 0)",
                             "shadowOpacity": 0,
                             "scaledShadowOpacity": 0,
@@ -877,22 +863,22 @@
                                 "height": 0
                             },
                             "position": "absolute",
-                            "left": "36.13333333333333%",
-                            "top": "7.31633999894584%",
-                            "lineHeight": 1,
-                            "display": "flex",
-                            "fontWeight": "bold",
-                            "textAlign": "center"
+                            "left": "31.333341471354167%",
+                            "top": "85.38230884557721%",
+                            "display": "flex"
                         },
+                        "FontBold": false,
+                        "FontItalic": false,
+                        "Raised": false,
+                        "Disabled": false,
                         "ParentId": "310b225a-ff5a-47fb-bcbf-f93cbf517bb1",
                         "position": "absolute",
-                        "edgeOffsets": 14,
-                        "children": "Current Trade Offers"
+                        "edgeOffsets": 526
                     },
                     "children": [],
-                    "id": "e69189e0-f307-49c0-813d-c9dea3a204c0",
-                    "thunkableVersion": 428,
-                    "name": "Label9"
+                    "id": "865b3a9a-eacd-4772-85ba-226b786a8810",
+                    "thunkableVersion": 433,
+                    "name": "RO_Btn_Offer"
                 },
                 {
                     "type": "List View",
@@ -919,21 +905,21 @@
                                 }
                             }
                         },
-                        "Height": 500,
-                        "Width": 321,
+                        "Height": 425,
+                        "Width": 305,
                         "Visible": true,
-                        "X": 28,
-                        "Y": 72,
-                        "RelativeX": 28,
-                        "RelativeY": 72,
+                        "X": 35,
+                        "Y": 80,
+                        "RelativeX": 35,
+                        "RelativeY": 80,
                         "ResizeMode": "STRETCH",
                         "ParentId": "310b225a-ff5a-47fb-bcbf-f93cbf517bb1",
                         "position": "absolute",
-                        "edgeOffsets": 72,
+                        "edgeOffsets": 79.99999999999997,
                         "style": {
                             "position": "absolute",
-                            "left": "29.466666666666665%",
-                            "top": "48.24587523132965%",
+                            "left": "22.737784830729165%",
+                            "top": "26.301851515648426%",
                             "display": "flex"
                         }
                     },
@@ -1154,6 +1140,7 @@
                                                                     "position": "relative",
                                                                     "display": "flex"
                                                                 },
+                                                                "capInsets": {},
                                                                 "ParentId": "5da61acf-d0a1-4a57-a663-d2e5be4eacc5",
                                                                 "position": "absolute",
                                                                 "edgeOffsets": 556,
@@ -1163,14 +1150,16 @@
                                                                 "ItemElementId": "bf2b65da-89cf-4a8d-afd8-0acb4fd9802c"
                                                             },
                                                             "children": [],
-                                                            "id": "1f78958b-49d4-4ac6-ba4c-0c1b7ab82f4e",
-                                                            "thunkableVersion": 428,
+                                                            "id": "c0e3c967-2644-4d63-b792-5cb72e7d9540",
+                                                            "thunkableVersion": 433,
+                                                            "bindings": {},
                                                             "name": "User_Img2",
                                                             "bindingLabel": "User_Img2"
                                                         }
                                                     ],
-                                                    "id": "a5ceca9a-6ade-4ef7-857d-08840c14c53e",
-                                                    "thunkableVersion": 428,
+                                                    "id": "0d5191e9-88f2-464b-89b0-041464bb6204",
+                                                    "thunkableVersion": 433,
+                                                    "bindings": {},
                                                     "name": "User Pfp2"
                                                 },
                                                 {
@@ -1240,6 +1229,7 @@
                                                                     "color": "rgba(0, 0, 0, 1)",
                                                                     "fontSize": 12,
                                                                     "fontStyle": "normal",
+                                                                    "textShadowOffset": {},
                                                                     "letterSpacing": 0,
                                                                     "textDecorationLine": "none",
                                                                     "textDecorationStyle": "solid",
@@ -1282,19 +1272,22 @@
                                                                 "ItemElementId": "96885d4b-325d-4eb0-a821-978c831a2a3a"
                                                             },
                                                             "children": [],
-                                                            "id": "f47c4da1-1e5f-4cff-ad5f-86714e006aee",
-                                                            "thunkableVersion": 428,
+                                                            "id": "97d27bb9-d4db-4153-bc64-01c8309e7dd2",
+                                                            "thunkableVersion": 433,
+                                                            "bindings": {},
                                                             "name": "VP_Username_Label2",
                                                             "bindingLabel": "VP_Username_Label2"
                                                         }
                                                     ],
-                                                    "id": "99f7838c-85a0-4ab8-a60b-8594f2966e50",
-                                                    "thunkableVersion": 428,
+                                                    "id": "6d282afc-6d87-4671-bd58-0826efc5d326",
+                                                    "thunkableVersion": 433,
+                                                    "bindings": {},
                                                     "name": "Username Slot2"
                                                 }
                                             ],
-                                            "id": "60fc812f-887a-4d67-9ad8-5d6311333c04",
-                                            "thunkableVersion": 428,
+                                            "id": "eb6e1528-ce93-4d92-a408-9bcbda6b77ec",
+                                            "thunkableVersion": 433,
+                                            "bindings": {},
                                             "name": "User2"
                                         },
                                         {
@@ -1364,6 +1357,7 @@
                                                             "color": "rgba(0, 0, 0, 1)",
                                                             "fontSize": 15,
                                                             "fontStyle": "normal",
+                                                            "textShadowOffset": {},
                                                             "letterSpacing": 0,
                                                             "textDecorationLine": "none",
                                                             "textDecorationStyle": "solid",
@@ -1407,8 +1401,9 @@
                                                         "ItemElementId": "81332fbc-300e-4ea1-98b2-16f45c5955a8"
                                                     },
                                                     "children": [],
-                                                    "id": "73ed0cef-a834-4203-8bbc-3bafa183f658",
-                                                    "thunkableVersion": 428,
+                                                    "id": "369576c7-c06b-4bc9-9c43-86c2b17571b5",
+                                                    "thunkableVersion": 433,
+                                                    "bindings": {},
                                                     "name": "Response_Label2",
                                                     "bindingLabel": "Response_Label2"
                                                 },
@@ -1462,18 +1457,21 @@
                                                         }
                                                     },
                                                     "children": [],
-                                                    "id": "c147ae6a-4ffa-4c1d-b7cd-66d7d66be673",
-                                                    "thunkableVersion": 428,
+                                                    "id": "ae58bed1-23ec-404a-84e4-470eb921da12",
+                                                    "thunkableVersion": 433,
+                                                    "bindings": {},
                                                     "name": "Reply_Label2"
                                                 }
                                             ],
-                                            "id": "a191af03-f8fd-4b84-baad-9bbe55d382b3",
-                                            "thunkableVersion": 428,
+                                            "id": "5826e2a5-ffde-427d-9bdb-3524668efcc1",
+                                            "thunkableVersion": 433,
+                                            "bindings": {},
                                             "name": "Response2"
                                         }
                                     ],
-                                    "id": "106efcdc-6deb-4241-8dc4-ee630ebdb96a",
-                                    "thunkableVersion": 428,
+                                    "id": "7ab5ed59-2b72-44c6-954a-bb33ec1bb1be",
+                                    "thunkableVersion": 433,
+                                    "bindings": {},
                                     "name": "User Response2"
                                 },
                                 {
@@ -1569,8 +1567,9 @@
                                                 "edgeOffsets": 500
                                             },
                                             "children": [],
-                                            "id": "dbb58652-0055-417d-8a27-263771e0d8ef",
-                                            "thunkableVersion": 428,
+                                            "id": "2eda4414-b236-4a06-8062-01e6cdb6aa20",
+                                            "thunkableVersion": 433,
+                                            "bindings": {},
                                             "name": "Accept_Button2"
                                         },
                                         {
@@ -1620,23 +1619,26 @@
                                                 "edgeOffsets": 553
                                             },
                                             "children": [],
-                                            "id": "7abcfa4e-eaf5-4f29-8bfa-9bc7df3fff4b",
-                                            "thunkableVersion": 428,
+                                            "id": "fbccb7bd-bc3d-4ad7-ad60-e87a66f04ba5",
+                                            "thunkableVersion": 433,
+                                            "bindings": {},
                                             "name": "Reject Button2"
                                         }
                                     ],
-                                    "id": "596d4bfb-d08e-41c8-897b-7cc5649259ad",
-                                    "thunkableVersion": 428,
+                                    "id": "d4b46d03-06f9-4191-bdb6-70fed9de73e3",
+                                    "thunkableVersion": 433,
+                                    "bindings": {},
                                     "name": "Answer Offer2"
                                 }
                             ],
-                            "id": "aad2497a-08e4-418b-86b3-d061b33fe1b8",
-                            "thunkableVersion": 428,
+                            "id": "96889e70-0d12-4546-a8eb-912383cdb98e",
+                            "thunkableVersion": 433,
+                            "bindings": {},
                             "name": "Comment Template2"
                         }
                     ],
-                    "id": "19f58ff0-b7b7-4deb-baae-3b7d143a2502",
-                    "thunkableVersion": 428,
+                    "id": "1a410419-9594-4779-88d2-f503ee6a4929",
+                    "thunkableVersion": 433,
                     "bindings": {
                         "DataSourceTableBinding": {
                             "dataSourceLinkId": "f7da5d6c-b5e9-4f8f-a6d9-21146a3ab77a",
@@ -1645,14 +1647,81 @@
                             "type": "DATA_SOURCE_TABLE"
                         }
                     },
-                    "name": "Data_Viewer_List1"
+                    "name": "Data_Viewer_List3"
+                },
+                {
+                    "type": "Label",
+                    "translatedName": "Label",
+                    "reactType": "Text",
+                    "properties": {
+                        "Text": "Current Trade Offers",
+                        "FontSize": 24,
+                        "CustomFont": "",
+                        "LineHeight": 1,
+                        "Color": "rgba(0, 0, 0, 1)",
+                        "FontWeight": "bold",
+                        "TextAlign": "center",
+                        "Height": 45,
+                        "Width": 311,
+                        "Visible": true,
+                        "X": 33,
+                        "Y": 14,
+                        "RelativeX": 33,
+                        "RelativeY": 14,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontSize": 24,
+                            "fontStyle": "normal",
+                            "letterSpacing": 0,
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textDecorationColor": "rgba(0, 0, 0, 1)",
+                            "writingDirection": "auto",
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "flexWrap": "wrap",
+                            "borderWidth": 0,
+                            "borderRadius": 0,
+                            "borderColor": "rgba(236, 237, 237, 1)",
+                            "borderStyle": "solid",
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "36.13333333333333%",
+                            "top": "7.31633999894584%",
+                            "lineHeight": 1,
+                            "display": "flex",
+                            "fontWeight": "bold",
+                            "textAlign": "center"
+                        },
+                        "ParentId": "310b225a-ff5a-47fb-bcbf-f93cbf517bb1",
+                        "position": "absolute",
+                        "edgeOffsets": 14,
+                        "children": "Current Trade Offers"
+                    },
+                    "children": [],
+                    "id": "e69189e0-f307-49c0-813d-c9dea3a204c0",
+                    "thunkableVersion": 428,
+                    "name": "Label9"
                 }
             ],
             "thunkableVersion": 426,
             "name": "Response Offers"
         }
     ],
-    "id": "d3fdc8f2-7725-47d4-b1d3-7f8550368011",
     "thunkableVersion": 428,
     "name": "Post"
 }

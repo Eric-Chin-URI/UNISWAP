@@ -45,10 +45,10 @@
         "ResponsiveWidth": 375,
         "isSimple": true,
         "tabNavigationOptions": {
-            "activeTabIcon": "search_icon.png"
+            "activeTabIcon": "swap_icon.png"
         }
     },
     "children": [],
     "thunkableVersion": 425,
-    "name": "Search"
+    "name": "Trade"
 }
