@@ -62,6 +62,76 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
+                "Text": "No messages yet!",
+                "FontSize": 18,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "TextAlign": "center",
+                "Height": 35,
+                "Width": 150,
+                "Visible": false,
+                "X": 111,
+                "Y": 100,
+                "RelativeX": 111,
+                "RelativeY": 100,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "0%",
+                    "top": "0%",
+                    "lineHeight": 1,
+                    "display": "none",
+                    "textAlign": "center"
+                },
+                "ParentId": "bd8e8d72-f28d-487e-9fba-3afd9e56526f",
+                "position": "absolute",
+                "edgeOffsets": {
+                    "left": "0%",
+                    "top": "0%"
+                },
+                "children": "No messages yet!"
+            },
+            "children": [],
+            "id": "840d1178-1f7a-4202-8477-ec20502686a2",
+            "thunkableVersion": 435,
+            "name": "MM_Label_No-Messages"
+        },
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
                 "Text": "My Messages",
                 "FontSize": 20,
                 "CustomFont": "",
@@ -123,7 +193,7 @@
             "children": [],
             "id": "260d3e9e-515b-42c7-80b3-263d35adcd3d",
             "thunkableVersion": 428,
-            "name": "Label10"
+            "name": "MS_Lbl_Header"
         },
         {
             "type": "List View",
@@ -151,7 +221,7 @@
                     }
                 },
                 "Height": 555,
-                "Width": 375,
+                "Width": 370,
                 "Visible": true,
                 "X": 1,
                 "Y": 60,
@@ -177,10 +247,10 @@
                         "Height": 110,
                         "Width": 375,
                         "Visible": true,
-                        "X": -1,
-                        "Y": 99,
-                        "RelativeX": -1,
-                        "RelativeY": 99,
+                        "X": 0,
+                        "Y": 100,
+                        "RelativeX": 0,
+                        "RelativeY": 100,
                         "ResizeMode": "STRETCH",
                         "Layout": "column",
                         "BackgroundColor": "rgba(0, 0, 0, 0)",
@@ -216,7 +286,7 @@
                         "LayoutDirection": "HORIZONTAL",
                         "ParentId": "bc3404a2-4899-437c-b55a-5a037f070707",
                         "position": "absolute",
-                        "edgeOffsets": 100,
+                        "edgeOffsets": 108,
                         "horizontal": true
                     },
                     "children": [
@@ -269,12 +339,69 @@
                             },
                             "children": [
                                 {
+                                    "type": "Image",
+                                    "translatedName": "Image",
+                                    "properties": {
+                                        "Picture": "Item Image Placeholder.png",
+                                        "resizeMode": "stretch",
+                                        "Height": "Fill container",
+                                        "Width": "25%",
+                                        "Visible": true,
+                                        "X": null,
+                                        "Y": null,
+                                        "ResizeMode": "STRETCH",
+                                        "style": {
+                                            "marginTop": "1.25%",
+                                            "marginBottom": "1.25%",
+                                            "marginLeft": "1.25%",
+                                            "marginRight": 0,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingLeft": 0,
+                                            "paddingRight": 0,
+                                            "shadowColor": "rgba(0, 0, 0, 0)",
+                                            "shadowOpacity": 0,
+                                            "scaledShadowOpacity": 0,
+                                            "shadowRadius": 0,
+                                            "shadowOffset": {
+                                                "width": 0,
+                                                "height": 0
+                                            },
+                                            "display": "flex",
+                                            "borderColor": "rgba(0, 0, 0, 0)",
+                                            "backgroundColor": "rgba(0, 0, 0, 0)",
+                                            "borderRadius": 5,
+                                            "position": "relative"
+                                        },
+                                        "ParentId": "bc3404a2-4899-437c-b55a-5a037f070707",
+                                        "BackgroundColor": "rgba(0, 0, 0, 0)",
+                                        "bindableProperties": [
+                                            "Picture"
+                                        ],
+                                        "ItemElementId": "79fba96a-78c3-44bf-b487-bd1dd5201d54"
+                                    },
+                                    "children": [],
+                                    "id": "6a090489-15dd-4b43-82f6-f4ec8aaa4955",
+                                    "thunkableVersion": 432,
+                                    "name": "user_a_img",
+                                    "bindingLabel": "user_a_img",
+                                    "bindings": {
+                                        "Picture": {
+                                            "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
+                                            "componentId": "103f120e-8813-48ec-a943-129908620d54",
+                                            "property": "DataSourceTableBinding",
+                                            "column": "58b9fcef-966a-4963-82f8-127c86cc9e55",
+                                            "row": 0
+                                        }
+                                    }
+                                },
+                                {
                                     "type": "ScrollView",
                                     "translatedName": "Container",
                                     "reactType": "ScrollView",
                                     "properties": {
                                         "Height": "Fill container",
-                                        "Width": "65%",
+                                        "Width": "40%",
                                         "Visible": true,
                                         "X": null,
                                         "Y": null,
@@ -332,7 +459,6 @@
                                                     "color": "rgba(0, 0, 0, 1)",
                                                     "fontSize": 22,
                                                     "fontStyle": "normal",
-                                                    "textShadowOffset": {},
                                                     "letterSpacing": 0,
                                                     "textDecorationLine": "none",
                                                     "textDecorationStyle": "solid",
@@ -372,11 +498,19 @@
                                                 "ItemElementId": "6733aeaf-16a3-4994-aa2b-128789dbc1ee"
                                             },
                                             "children": [],
-                                            "id": "1f422925-04f6-4b33-a497-23a5b14f8413",
+                                            "id": "60a790e3-4de1-4c45-a314-eed09b002e5b",
                                             "thunkableVersion": 432,
-                                            "bindings": {},
                                             "name": "user_a_item",
-                                            "bindingLabel": "user_a_item"
+                                            "bindingLabel": "user_a_item",
+                                            "bindings": {
+                                                "Text": {
+                                                    "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
+                                                    "componentId": "103f120e-8813-48ec-a943-129908620d54",
+                                                    "property": "DataSourceTableBinding",
+                                                    "column": "7e097568-a86f-40a8-8c36-e3e074d40574",
+                                                    "row": 0
+                                                }
+                                            }
                                         },
                                         {
                                             "type": "Label",
@@ -398,7 +532,6 @@
                                                     "color": "rgba(0, 0, 0, 1)",
                                                     "fontSize": 15,
                                                     "fontStyle": "normal",
-                                                    "textShadowOffset": {},
                                                     "letterSpacing": 0,
                                                     "textDecorationLine": "none",
                                                     "textDecorationStyle": "solid",
@@ -437,17 +570,25 @@
                                                 "ItemElementId": "fc125fd4-ed8f-4a20-91d6-4c374f2742a0"
                                             },
                                             "children": [],
-                                            "id": "b7b1e639-a08a-45f8-8c88-6f0601c62383",
+                                            "id": "bc882f58-7f2b-42e0-b84f-0267beee3657",
                                             "thunkableVersion": 432,
-                                            "bindings": {},
                                             "name": "user_b_name",
-                                            "bindingLabel": "user_b_name"
+                                            "bindingLabel": "user_b_name",
+                                            "bindings": {
+                                                "Text": {
+                                                    "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
+                                                    "componentId": "103f120e-8813-48ec-a943-129908620d54",
+                                                    "property": "DataSourceTableBinding",
+                                                    "column": "86164723-1f31-482a-8723-870221372ae6",
+                                                    "row": 0
+                                                }
+                                            }
                                         }
                                     ],
-                                    "id": "0f533bd2-03a5-4e3b-810b-8731cc587667",
+                                    "id": "2ca39b69-4c78-4bd3-a650-158bc17e9abe",
                                     "thunkableVersion": 432,
-                                    "bindings": {},
-                                    "name": "Message Header"
+                                    "name": "Message Header",
+                                    "bindings": {}
                                 },
                                 {
                                     "type": "ScrollView",
@@ -503,7 +644,7 @@
                                                 "LineHeight": 1,
                                                 "Color": "rgba(74, 144, 226, 1)",
                                                 "FontWeight": "bold",
-                                                "TextAlign": "center",
+                                                "TextAlign": "left",
                                                 "Height": "Fit contents",
                                                 "Width": "Fill container",
                                                 "Visible": true,
@@ -514,7 +655,6 @@
                                                     "color": "rgba(74, 144, 226, 1)",
                                                     "fontSize": 22,
                                                     "fontStyle": "normal",
-                                                    "textShadowOffset": {},
                                                     "letterSpacing": 0,
                                                     "textDecorationLine": "none",
                                                     "textDecorationStyle": "solid",
@@ -544,7 +684,7 @@
                                                     "lineHeight": 1,
                                                     "display": "flex",
                                                     "fontWeight": "bold",
-                                                    "textAlign": "center",
+                                                    "textAlign": "left",
                                                     "position": "relative"
                                                 },
                                                 "ParentId": "bc3404a2-4899-437c-b55a-5a037f070707",
@@ -555,14 +695,22 @@
                                                 "ItemElementId": "72ccace1-ff26-4ac3-be69-2b7cadb925a8"
                                             },
                                             "children": [],
-                                            "id": "3e89bd11-d3a7-4b92-b025-f5e2c87f9834",
+                                            "id": "a62504cb-3acb-47e5-8311-d9a7a78cf4b6",
                                             "thunkableVersion": 432,
-                                            "bindings": {},
                                             "name": "num_new",
-                                            "bindingLabel": "num_new"
+                                            "bindingLabel": "num_new",
+                                            "bindings": {
+                                                "Text": {
+                                                    "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
+                                                    "componentId": "103f120e-8813-48ec-a943-129908620d54",
+                                                    "property": "DataSourceTableBinding",
+                                                    "column": "dfee865e-1675-43c0-97bd-3f4eeca4d761",
+                                                    "row": 0
+                                                }
+                                            }
                                         }
                                     ],
-                                    "id": "3f200889-a863-499c-8167-7309e61c3756",
+                                    "id": "65b22b55-69fb-429c-9d77-5b691b0c6b3e",
                                     "thunkableVersion": 432,
                                     "bindings": {},
                                     "name": "New Message Num"
@@ -586,7 +734,7 @@
                                             "marginTop": 0,
                                             "marginBottom": 0,
                                             "marginLeft": 0,
-                                            "marginRight": 0,
+                                            "marginRight": "1.25%",
                                             "paddingTop": 0,
                                             "paddingBottom": 0,
                                             "paddingLeft": 0,
@@ -615,7 +763,7 @@
                                             "translatedName": "Label",
                                             "reactType": "Text",
                                             "properties": {
-                                                "Text": "Open",
+                                                "Text": "Request",
                                                 "FontSize": 22,
                                                 "CustomFont": "",
                                                 "LineHeight": 1,
@@ -632,7 +780,6 @@
                                                     "color": "rgba(0, 0, 0, 1)",
                                                     "fontSize": 22,
                                                     "fontStyle": "normal",
-                                                    "textShadowOffset": {},
                                                     "letterSpacing": 0,
                                                     "textDecorationLine": "none",
                                                     "textDecorationStyle": "solid",
@@ -641,7 +788,7 @@
                                                     "marginTop": 0,
                                                     "marginBottom": "0%",
                                                     "marginLeft": "0%",
-                                                    "marginRight": 10,
+                                                    "marginRight": 0,
                                                     "paddingTop": 0,
                                                     "paddingBottom": 0,
                                                     "paddingLeft": 0,
@@ -666,16 +813,24 @@
                                                     "position": "relative"
                                                 },
                                                 "ParentId": "bc3404a2-4899-437c-b55a-5a037f070707",
-                                                "children": "Open",
+                                                "children": "Request",
                                                 "bindableProperties": [
                                                     "Text"
                                                 ],
                                                 "ItemElementId": "c9aed38d-771f-4869-b497-3f58f2ca1536"
                                             },
                                             "children": [],
-                                            "id": "f30c932d-6d82-45cf-ba3b-8499c7f8a512",
+                                            "id": "6b071419-2c48-43b1-8e86-710c5a149116",
                                             "thunkableVersion": 432,
-                                            "bindings": {},
+                                            "bindings": {
+                                                "Text": {
+                                                    "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
+                                                    "componentId": "103f120e-8813-48ec-a943-129908620d54",
+                                                    "property": "DataSourceTableBinding",
+                                                    "column": "a67f1344-f45f-4432-adb1-bb75c89fdd32",
+                                                    "row": 0
+                                                }
+                                            },
                                             "name": "trade_status",
                                             "bindingLabel": "trade_status"
                                         },
@@ -700,7 +855,6 @@
                                                     "color": "rgba(0, 0, 0, 1)",
                                                     "fontSize": 15,
                                                     "fontStyle": "normal",
-                                                    "textShadowOffset": {},
                                                     "letterSpacing": 0,
                                                     "textDecorationLine": "none",
                                                     "textDecorationStyle": "solid",
@@ -709,7 +863,7 @@
                                                     "marginTop": 0,
                                                     "marginBottom": 0,
                                                     "marginLeft": 0,
-                                                    "marginRight": 10,
+                                                    "marginRight": 0,
                                                     "paddingTop": 0,
                                                     "paddingBottom": 0,
                                                     "paddingLeft": 0,
@@ -740,42 +894,50 @@
                                                 "ItemElementId": "8a00e48a-af86-4505-9f2c-742aa3bf824e"
                                             },
                                             "children": [],
-                                            "id": "047283f9-d0b6-455f-8c66-0c19bae35e55",
+                                            "id": "fa4845cc-10eb-48d1-87ad-b4d95b9bcb62",
                                             "thunkableVersion": 432,
-                                            "bindings": {},
+                                            "bindings": {
+                                                "Text": {
+                                                    "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
+                                                    "componentId": "103f120e-8813-48ec-a943-129908620d54",
+                                                    "property": "DataSourceTableBinding",
+                                                    "column": "a54c37eb-e1a0-48c2-9213-982a25e9f882",
+                                                    "row": 0
+                                                }
+                                            },
                                             "name": "last_interaction_date",
                                             "bindingLabel": "last_interaction_date"
                                         }
                                     ],
-                                    "id": "fb4ad2ba-20a8-4f8b-ad1f-3071e5a0bdcb",
+                                    "id": "b770c990-e2e2-44dc-b7c3-91fbac70f862",
                                     "thunkableVersion": 432,
-                                    "bindings": {},
-                                    "name": "Message Status"
+                                    "name": "Message Status",
+                                    "bindings": {}
                                 }
                             ],
-                            "id": "caa6654a-2503-4832-aa84-0c97beb997d5",
+                            "id": "84a4f203-b46e-4d30-a72b-661a094b43c9",
                             "thunkableVersion": 432,
-                            "bindings": {},
-                            "name": "Message Container"
+                            "name": "Message Container",
+                            "bindings": {}
                         }
                     ],
-                    "id": "34b7829f-ce9e-46e4-af29-88832844d406",
+                    "id": "0aebeea9-8282-4a2f-8f6b-cd7caf4903a4",
                     "thunkableVersion": 432,
-                    "bindings": {},
-                    "name": "Layout Messages"
+                    "name": "Layout Messages",
+                    "bindings": {}
                 }
             ],
             "id": "103f120e-8813-48ec-a943-129908620d54",
             "thunkableVersion": 432,
             "bindings": {
                 "DataSourceTableBinding": {
-                    "dataSourceLinkId": "f7da5d6c-b5e9-4f8f-a6d9-21146a3ab77a",
-                    "collectionId": "f95dfbe3-3df0-46ff-b68e-61c8ddc769e9",
+                    "dataSourceLinkId": "5f914deb-96b8-4666-99bf-4ef9367109c3",
+                    "collectionId": "aae51bd8-0059-4dc5-93ba-08d14e340ac4",
                     "isLocal": true,
                     "type": "DATA_SOURCE_TABLE"
                 }
             },
-            "name": "Data_Viewer_List2"
+            "name": "Messages_Data_Viewer"
         }
     ],
     "thunkableVersion": 425,
