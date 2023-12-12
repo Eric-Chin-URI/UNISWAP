@@ -5,7 +5,7 @@ In lieu of writing a full business plan, we have created a 1-page business model
 Our lean canvas can be found [here](https://docs.google.com/presentation/d/11vgXLrOii0DactRECimMZVA6QJxtxzyTPzR3j-7Oqmk/edit#slide=id.gc8216bd24_20_0).
 
 # Persona Grids
-Our persona grids can also be found [here](https://docs.google.com/presentation/d/1m9A83jg0Sq9hcLyO7_6Sin0zsAFHubWtZxoPnwKPSWQ/edit?usp=sharing).
+Our persona grids can also be found [here](https://docs.google.com/presentation/d/1XRpfZQchqnEZjiOHLUMYXIiE_ExreDxyRw7tLy73GtE/edit?usp=sharing).
 
 ## Abby
 Entrepreneur
