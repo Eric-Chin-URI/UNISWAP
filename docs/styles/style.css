@@ -1,0 +1,36 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    color: #071F36;
+    font-size: 16px;
+}
+
+body {
+    background-color: #F0FAFA;
+}
+
+.navbar{
+    background-color:#D1EFEF;
+    overflow: hidden;
+    padding: 4px;
+}
+
+.navlinks {
+    float: right;
+    margin-top: 12px;
+}
+.navlinks a {
+    float: left;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 12px;
+    text-align: center;
+}
+
+.navlinks a:hover {
+    background-color:#F0FAFA;
+}
+
+#logo {
+    margin: 10px;
+}
