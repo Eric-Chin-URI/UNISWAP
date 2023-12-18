@@ -109,7 +109,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 ## Signatures
-![Claudia Deverdits signature](/src/signatures/deverdits_signature.png)
-![Sam Calise signature](/src/signatures/SamCalise_Signature.jpeg)
-![Vanessa Melgar signature](/src/signatures/melgar_signature.png)
-![Eric Chin signature](/src/signatures/ericchin_signature.png)
+![Claudia Deverdits signature](/src/Signatures/deverdits_signature.png)
+![Sam Calise signature](/src/Signatures/SamCalise_Signature.jpeg)
+![Vanessa Melgar signature](/src/Signatures/melgar_signature.png)
+![Eric Chin signature](/src/Signatures/ericchin_signature.png)
