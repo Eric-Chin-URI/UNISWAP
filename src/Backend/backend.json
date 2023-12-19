@@ -4,37 +4,58 @@
   "properties": {
     "Users": {
       "type": "object",
-      "properties": {
-        "sample_user_id": {
+      "patternProperties": {
+        "^[a-zA-Z0-9]{28}$": {
           "type": "object",
           "properties": {
-            "email": { "type": "string" },
-            "name": { "type": "string" },
-            "user_posts": {
+            "conversations": {
               "type": "object",
-              "properties": {
-                "item_image": { "type": "string" },
-                "item_name": { "type": "string" },
-                "item_offers": { "type": "string" },
-                "item_post_ID": { "type": "string" },
-                "item_post_date": { "type": "string" }
-              },
-              "required": ["item_image", "item_name", "item_offers", "item_post_ID", "item_post_date"]
+              "patternProperties": {
+                "^[a-zA-Z0-9]{56}$": {
+                  "type": "object",
+                  "properties": {
+                    "offer_details": { "type": "string" },
+                    "post_details": { "type": "string" }
+                  },
+                  "required": ["offer_details", "post_details"]
+                }
+              }
             },
+            "date_joined": { "type": "string", "format": "date-time" },
+            "email": { "type": "string", "format": "email" },
+            "name": { "type": "string" },
+            "user_agreement": { "type": "boolean" },
+            "user_pfp": { "type": "string", "format": "uri" },
             "user_settings": {
               "type": "object",
               "properties": {
-                "dark_mode": { "type": "string" },
-                "user_agreement": { "type": "string" }
+                "dark_mode": { "type": "boolean" },
+                "private_profile": { "type": "boolean" }
               },
-              "required": ["dark_mode", "user_agreement"]
+              "required": ["dark_mode", "private_profile"]
             },
-            "username": { "type": "string" }
+            "username": { "type": "string" },
+            "user_posts": {
+              "type": "object",
+              "patternProperties": {
+                "^[a-zA-Z0-9]{15}$": {
+                  "type": "object",
+                  "properties": {
+                    "item_description": { "type": "string" },
+                    "item_image": { "type": "array", "items": { "type": "string", "format": "uri" } },
+                    "item_offer_count": { "type": "integer" },
+                    "item_post_date": { "type": "string", "format": "date-time" },
+                    "item_title": { "type": "string" },
+                    "success": { "type": "boolean" }
+                  },
+                  "required": ["item_description", "item_image", "item_offer_count", "item_post_date", "item_title", "success"]
+                }
+              }
+            }
           },
-          "required": ["email", "name", "user_posts", "user_settings", "username"]
+          "required": ["conversations", "date_joined", "email", "name", "user_agreement", "user_pfp", "user_settings", "username"]
         }
-      },
-      "required": ["sample_user_id"]
+      }
     }
   },
   "required": ["Users"]
