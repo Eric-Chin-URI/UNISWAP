@@ -259,7 +259,7 @@
                     "children": [],
                     "id": "3a2fdfa0-3eb4-4f61-b7d0-e2466886260f",
                     "thunkableVersion": 432,
-                    "name": "Label20"
+                    "name": "TP_Lbl_Add-Photo"
                 },
                 {
                     "type": "Label",
@@ -603,7 +603,7 @@
                         "resizeMode": "stretch",
                         "Height": 27,
                         "Width": 27,
-                        "Visible": false,
+                        "Visible": true,
                         "X": 341,
                         "Y": 192,
                         "RelativeX": 341,
@@ -629,7 +629,7 @@
                             "position": "absolute",
                             "left": "2.4%",
                             "top": "49.595200568660985%",
-                            "display": "none"
+                            "display": "flex"
                         },
                         "ParentId": "f3b36c37-2c57-489c-9d55-f7d9a5e0abcf",
                         "position": "absolute",
@@ -649,7 +649,7 @@
                         "resizeMode": "stretch",
                         "Height": 27,
                         "Width": 27,
-                        "Visible": false,
+                        "Visible": true,
                         "X": 6,
                         "Y": 190,
                         "RelativeX": 6,
@@ -675,7 +675,7 @@
                             "position": "absolute",
                             "left": "2.4%",
                             "top": "49.595200568660985%",
-                            "display": "none"
+                            "display": "flex"
                         },
                         "ParentId": "f3b36c37-2c57-489c-9d55-f7d9a5e0abcf",
                         "position": "absolute",

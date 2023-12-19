@@ -641,13 +641,7 @@
                                                     "name": "post_user",
                                                     "bindingLabel": "post_user",
                                                     "bindings": {
-                                                        "Text": {
-                                                            "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
-                                                            "componentId": "da043dbe-3960-4c65-92ee-18a5132ae9a9",
-                                                            "property": "DataSourceTableBinding",
-                                                            "column": "f74db3aa-e987-4c0a-bb00-67a829137ee2",
-                                                            "row": 0
-                                                        }
+                                                        "Text": {}
                                                     }
                                                 },
                                                 {
@@ -713,13 +707,7 @@
                                                     "id": "3bb54332-462a-4da9-95ca-514bdcf08360",
                                                     "thunkableVersion": 432,
                                                     "bindings": {
-                                                        "Text": {
-                                                            "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
-                                                            "componentId": "da043dbe-3960-4c65-92ee-18a5132ae9a9",
-                                                            "property": "DataSourceTableBinding",
-                                                            "column": "c7438fa1-e3d2-4ea9-9cab-73ab4e9b0c5b",
-                                                            "row": 0
-                                                        }
+                                                        "Text": {}
                                                     },
                                                     "name": "offer_num",
                                                     "bindingLabel": "offer_num"
@@ -792,13 +780,7 @@
                                             "name": "date_posted",
                                             "bindingLabel": "date_posted",
                                             "bindings": {
-                                                "Text": {
-                                                    "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
-                                                    "componentId": "da043dbe-3960-4c65-92ee-18a5132ae9a9",
-                                                    "property": "DataSourceTableBinding",
-                                                    "column": "f27b285b-7027-4ff2-9d69-cce456c2acd4",
-                                                    "row": 0
-                                                }
+                                                "Text": {}
                                             }
                                         }
                                     ],
@@ -834,13 +816,13 @@
             "translatedName": "Layout",
             "reactType": "ScrollView",
             "properties": {
-                "Height": 447,
-                "Width": 375,
-                "Visible": true,
-                "X": 0,
-                "Y": 0,
-                "RelativeX": 0,
-                "RelativeY": 0,
+                "Height": 147,
+                "Width": 175,
+                "Visible": false,
+                "X": 10,
+                "Y": 10,
+                "RelativeX": 10,
+                "RelativeY": 10,
                 "ResizeMode": "STRETCH",
                 "Layout": "column",
                 "Justification": "center",
@@ -866,7 +848,7 @@
                     "position": "absolute",
                     "left": "0%",
                     "top": "0%",
-                    "display": "flex",
+                    "display": "none",
                     "flexDirection": "column",
                     "justifyContent": "center",
                     "alignItems": "center"
@@ -886,7 +868,7 @@
                     "properties": {
                         "Height": "Fill container",
                         "Width": "Fill container",
-                        "Visible": false,
+                        "Visible": true,
                         "X": null,
                         "Y": null,
                         "RelativeX": null,
@@ -916,7 +898,7 @@
                             },
                             "flex": 1,
                             "alignSelf": "stretch",
-                            "display": "none",
+                            "display": "flex",
                             "flexDirection": "row",
                             "justifyContent": "center",
                             "alignItems": "center",
@@ -934,7 +916,7 @@
                             "translatedName": "Label",
                             "reactType": "Text",
                             "properties": {
-                                "Text": "Label",
+                                "Text": "Empty",
                                 "FontSize": 12,
                                 "CustomFont": "",
                                 "LineHeight": 1,
@@ -979,7 +961,7 @@
                                     "display": "flex"
                                 },
                                 "ParentId": "00e79141-6632-4702-9b9a-845098eee0f2",
-                                "children": "Label"
+                                "children": "Empty"
                             },
                             "children": [],
                             "id": "477da4b7-18cd-40d4-8d93-1ad3262e3b6b",
