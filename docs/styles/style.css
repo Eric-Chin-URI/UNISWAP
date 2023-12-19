@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
     margin: auto;
     color: #071F36;
-    font-size: 16px;
+    /* font-size: 16px; */
 }
 
 body {
@@ -33,4 +33,44 @@ body {
 
 #logo {
     margin: 10px;
+}
+
+#screenshot {
+    float: left;
+    width: 300px;
+    margin: 10px;
+    margin-right: 50px;
+}
+
+.right-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    padding: 20px;
+}
+
+#web-app{
+    margin: 20px;
+}
+
+#app-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#docs {
+    flex-direction:column;
+}
+
+.doc-img {
+    width: 200px;
 }
