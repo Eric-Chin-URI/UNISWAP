@@ -72,3 +72,22 @@ As a user, I want to be able to search for other users, so that I can view their
 * Users can search for other users
 * Users can open another user's profile
 * Users can always view profile information if the profile is set to public.
+
+## User Story 8:
+As a user, I want video documentation for UNISWAP
+
+## User Story 9:
+
+US 9: As a user, I would like the trading process to be clear from the start so that I can easily make my first post, offer and trade.
+
+### Acceptance Criteria: 
+
+Given a user has created an account, when logging on for the first time, an optional tutorial pop-up should give the user the opportunity to run through an in-app tutorial simulating a trade.
+
+## User Story 10:
+
+As a user, I’d like to know whether another user is more likely to be trustworthy, so that I can decide whether to trade with them.
+
+### Acceptance Criteria:
+
+Given a user is an active member of the community, when completing a trade, reputation points will be awarded based on user ratings and rate of trade completion.
